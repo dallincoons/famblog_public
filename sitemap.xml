@@ -2,12 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>en/sitemap.xml</loc>
+    <loc>https://family.dallincoons.com/en/sitemap.xml</loc>
+    
+      <lastmod>2023-10-08T19:30:44+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>es/sitemap.xml</loc>
+    <loc>https://family.dallincoons.com/es/sitemap.xml</loc>
     
   </sitemap>
   

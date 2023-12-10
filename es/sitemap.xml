@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/categories/</loc>
+    <loc>https://family.dallincoons.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://family.dallincoons.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://family.dallincoons.com/es/categories/"
                 />
   </url><url>
-    <loc>/es/tags/</loc>
+    <loc>https://family.dallincoons.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://family.dallincoons.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://family.dallincoons.com/es/tags/"
                 />
   </url><url>
-    <loc>/es/</loc>
+    <loc>https://family.dallincoons.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://family.dallincoons.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://family.dallincoons.com/es/"
                 />
   </url>
 </urlset>
