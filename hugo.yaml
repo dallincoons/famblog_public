@@ -1,4 +1,4 @@
-baseURL: 'https://example.org/'
-languageCode: 'en-us'
-title: 'My New Hugo Site'
+baseURL: https://family.dallincoons.com
+languageCode: en-us
+title: Dallin's Blog
 contentDir: 'content'
