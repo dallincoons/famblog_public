@@ -34,7 +34,7 @@ I spent a good chunk of the Christmas holiday painting. Oh, how exciting.
 
 I mostly got fidget toys for Christmas, which is something I'd never considered as something I'd enjoy, but I've learned that I love them. If I'm sitting around the house I usually have one in my hand.
 
-Emily started classes as the beginning of the journey to becoming a therapist. She's taking some remedial classes right now - entry level psychology and statistics.
+Emily started classes as the beginning of the journey to becoming a therapist. She's taking some prerequisite classes right now - entry level psychology and statistics.
 
 It snows in Oklahoma by the way. You do have to take advantage of it because it'll be gone in a day or two, which is perfect. Calvin and cousins certainly took advantage of it, and we were glad we bought the snow clothes.
 ![](snow.jpeg)
