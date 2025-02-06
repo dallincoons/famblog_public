@@ -1,10 +1,13 @@
 ---
-title: 'Hello 2025'
+title: '2025 Is Definitely a Number'
 date: 2025-02-01T12:42:01-06:00
 draft: false
 ---
 
-Welcome to 2025. 2025 is definitely a number.
+Welcome to 2025. 
+
+2025 is definitely a number.
+
 ![](2025.jpg)
 
 Let's not screw around, shall we? Allow me to cut to the chase and post a cute pic.
