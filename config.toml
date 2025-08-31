@@ -1,0 +1,8 @@
+baseURL = "https://family.dallincoons.com"
+enableRobotsTXT = true
+theme = "dot-org-hugo-theme"
+
+[build]
+writeStats = true
+
+contentDir = "."
