@@ -1,5 +1,5 @@
 ---
-title: '2025 June July'
+title: 'Summer 2025'
 date: 2025-08-03T22:18:44-05:00
 draft: false
 ---
